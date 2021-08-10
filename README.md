@@ -1,3 +1,3 @@
-# Guess The Number App
+# Meals App
 
 ### Mobile Application built with React Native
